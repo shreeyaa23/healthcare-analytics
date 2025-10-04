@@ -78,9 +78,8 @@ Others have scores < 1 and can improve by adjusting input–output ratios.
 
 ## Author
 **Shreya Mishra**  
-MBA in Business Analytics | Data & BI Analyst  
+MBA in Business Analytics | Data Analyst  
 Richmond, VA  
-[LinkedIn](#) | [GitHub](#)
 
 ---
 
